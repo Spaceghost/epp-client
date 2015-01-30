@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Tova::VERSION
   spec.authors       = ["NCC Group Domain Services"]
   spec.email         = ["ds-development@nccgroup.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{EPP client. Tova, because all good epp-related names were taken. This one is better anyways.}
+  spec.description   = %q{EPP client. Tova, because all good epp-related names were taken. This one is better anyways.}
+  spec.homepage      = "https://github.com/ArtemisInternet/epp-client"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

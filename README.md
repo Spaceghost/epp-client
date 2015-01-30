@@ -1,6 +1,6 @@
 # Tova
 
-TODO: Write a gem description
+EPP client. Tova, because all good epp-related names were taken. This one is better anyways.
 
 ## Installation
 
