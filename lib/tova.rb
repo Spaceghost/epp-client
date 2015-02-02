@@ -1,5 +1,5 @@
 require "tova/version"
 
 module Tova
-  # Your code goes here...
+  autoload :Core, 'tova/core'
 end
